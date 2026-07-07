@@ -1,3 +1,7 @@
 
 This is a Git practice file.
+<<<<<<< HEAD
 Lee Ye Eun
+=======
+Lee hi
+>>>>>>> 27ab051 (update hello.txt)
